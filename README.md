@@ -66,5 +66,10 @@ The project demonstrates a complete end-to-end ML pipeline
 
 # 📂 Project Structure
 ML PROJECT.ipynb
+  -templates
+     -display.html
+     -home.html
+  -base.py
+  -logmodel.pkl
 
-README.md
+
