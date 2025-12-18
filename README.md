@@ -66,4 +66,5 @@ The project demonstrates a complete end-to-end ML pipeline
 
 # 📂 Project Structure
 ML PROJECT.ipynb
+
 README.md
